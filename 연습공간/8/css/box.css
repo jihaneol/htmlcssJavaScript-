@@ -1,0 +1,27 @@
+div {
+  padding: 20px;
+  margin: 10px;
+}
+.box1 {
+  background-color: yellow;
+  position: relative;
+  left: 100px;
+  right: 50px;
+}
+.box2 {
+  background-color: blue;
+  position: absolute;
+  left: 100px;
+  top:10px;
+}
+.box3 {
+  background-color: green;
+  position: fixed;
+  top: 10px;
+  left: 70px;
+}
+.box4 {
+  background-color: purple;
+  margin: 100px 200px 50px 10px;
+  clear: left;
+}

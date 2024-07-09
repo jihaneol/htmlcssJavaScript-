@@ -1,0 +1,27 @@
+#container {
+  margin: 20px auto;
+  border: none;
+  width: 600px;
+  padding: 20px;
+  background-color: rgb(252, 252, 252);
+}
+div {
+  margin: 10px;
+  padding: 30px 30px;
+  border: 1px black solid;
+}
+
+body {
+  background-color: gray;
+}
+
+#red {
+  border-top-left-radius: 30px; /* 왼쪽 위 모서리 라운딩 */
+  border-top-right-radius: 30px; /* 오른쪽 위 모서리 라운딩 */
+}
+#recipe {
+}
+#table {
+  border-bottom-left-radius: 30px; /* 왼쪽 아래 모서리 라운딩 */
+  border-bottom-right-radius: 30px; /* 오른쪽 아래 모서리 라운딩 */
+}
